@@ -1,0 +1,24 @@
+p{
+	color: #1245a3;
+	text-shadow:0 0 2px rgba(54, 51, 51, 0.993);
+	font-family: Courier
+	font-size Courier, monospace 22;
+}
+
+.p-color{
+    color   :#1245a3;
+
+}
+
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+.b-background
+{
+	
+	width: page;
+	height: 100vh;
+	background-image: url(old\ paper.png)
+}
